@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\ASUS\Downloads\KrishBhurtelBanner.png")]
+[![MasterHead]("KrishBhurtelBanner.png")]
 <h1 align="center">Hi 👋, I'm Krish Bhurtel</h1>
 <h3 align="center">A passionate tech geek currently a student of front end Development</h3>
 <img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
