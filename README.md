@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_krishhh)
 
-- 👨‍💻 All of my projects are available at [https://www.krishbhurtel.com.np]( www.krishbhurtel.com.np )
+- 👨‍💻 All of my projects are available at [www.krishbhurtel.com.np]( https://www.krishbhurtel.com.np )
 
 - 📫 How to reach me **bhurtelkrish123@gmail.com**
 
